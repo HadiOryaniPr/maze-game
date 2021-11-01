@@ -1,0 +1,45 @@
+@mixin overal {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@mixin level-one {
+  position: relative;
+  left: 60px;
+  top: 70px;
+  width: 90vw;
+  height: 60vh;
+}
+
+@mixin discription {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  color: #fff;
+}
+
+@mixin btn {
+  border: 1px solid #000;
+  padding: 1rem 3rem;
+  background-color: #199cd8;
+  color: #fff;
+  text-transform: capitalize;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+  transition: opacity 0.5s ease-out;
+  opacity: 0;
+  cursor: pointer;
+}
+
+@mixin level-two {
+  position: relative;
+  left: 120px;
+  top: 60px;
+  width: 80vw;
+  height: 65vh;
+  display: none;
+}
