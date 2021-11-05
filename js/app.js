@@ -5,7 +5,7 @@ let level_two = document.querySelector(".game .level-2");
 let border = document.querySelectorAll(".border");
 let levelNumber = document.querySelector("h1");
 let btn = document.getElementById("btn");
-
+ 
 function game(value) {
   if (value === "border") alert("❗❗❗ You Lost Try Again ❗❗❗");
 
