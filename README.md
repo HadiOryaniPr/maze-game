@@ -5,6 +5,6 @@ maze game with Javascript
   <a href="https://hadioryanipr.github.io/maze-game/"> online view </a>
 </h2>
  
- 
+  
  
 
