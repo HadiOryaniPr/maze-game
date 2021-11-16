@@ -7,4 +7,3 @@ maze game with Javascript
  
   
  
-
