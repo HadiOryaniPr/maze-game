@@ -6,4 +6,3 @@ maze game with Javascript
 </h2>
  
   
- 
