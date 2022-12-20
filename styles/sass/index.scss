@@ -3,11 +3,9 @@
 * {
   @include overal;
 }
-
 body {
   background-color: #21222d;
 }
-
 .game {
   .level-1 {
     @include level-one;
